@@ -1,7 +1,7 @@
 {
   "name": "GNC — Projects Desk",
   "short_name": "GNC",
-  "description": "Good Neighbor Construction (GNC) projects desk: task orders, submittals, permits, warranties and the Weekly Action Report, in Korean and English. Sign in with your company email.",
+  "description": "Good Neighbor Construction (GNC) projects desk: the Weekly Action Report for every task order, with each project's latest records (submittals, permits) and contacts, in Korean and English. Sign in with your company email.",
   "lang": "en",
   "start_url": "/",
   "scope": "/",
